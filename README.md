@@ -18,7 +18,6 @@ This project builds a pipeline to extract sentiment signals from financial news 
 - `pandas`, `numpy`, `matplotlib`, `scikit-learn`
 - `yfinance` for stock price data
 - `NLTK` / `VADER` for sentiment analysis
-- Optional: `dbt`, `Snowflake`, `Looker`, or `Monte Carlo` for production-scale deployment
 
 ## 🧩 Key Features
 
